@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolioHaddi/static/css/main.99b2c572.css",
+    "main.js": "/portfolioHaddi/static/js/main.22af4955.js",
+    "static/media/me2.png": "/portfolioHaddi/static/media/me2.57e08bd02bbee6c05125.png",
+    "static/media/me.png": "/portfolioHaddi/static/media/me.45aac0f79ea80ea5b4ea.png",
+    "static/media/award.png": "/portfolioHaddi/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/portfolioHaddi/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/portfolioHaddi/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/portfolioHaddi/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/portfolioHaddi/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/portfolioHaddi/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/portfolioHaddi/index.html",
+    "main.99b2c572.css.map": "/portfolioHaddi/static/css/main.99b2c572.css.map",
+    "main.22af4955.js.map": "/portfolioHaddi/static/js/main.22af4955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b2c572.css",
+    "static/js/main.22af4955.js"
+  ]
+}
